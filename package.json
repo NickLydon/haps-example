@@ -1,0 +1,11 @@
+{
+  "name": "ProductsAPI",
+  "version": "0.0.1",
+  "main": "server",
+  "dependencies": {
+    "good": "^6.3.0",
+    "good-console": "^5.0.2",
+    "hapi": "^8.8.0"
+  },
+  "private": "true"
+}
